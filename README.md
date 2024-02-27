@@ -1,4 +1,6 @@
 # ping-pong
+Developed a classic two-player, Ping Pong game using HTML, CSS, and JavaScript. Implemented game logic and
+designed intuitive user interface. Utilized JavaScript for seamless gameplay experience
 
 ![Screenshot (84)](https://github.com/Drishtidagar04/ping-pong/assets/110250573/20dee317-98c8-4317-b592-8508963f9512)
 ![Screenshot (85)](https://github.com/Drishtidagar04/ping-pong/assets/110250573/1330b6a3-b888-41dc-85bc-031d96f944b8)
